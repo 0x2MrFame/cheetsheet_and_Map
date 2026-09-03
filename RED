@@ -1,0 +1,8 @@
+New procees will come
+
+powershell -ep bypass
+
+Load the AD module
+
+Import-Module C:\Users\studentuser\Desktop\shared\Tools\ADModule-master\Microsoft.ActiveDirectory.Management.dll
+Import-Module C:\Users\studentuser\Desktop\shared\Tools\ADModule-master\ActiveDirectory\ActiveDirectory.psd1
